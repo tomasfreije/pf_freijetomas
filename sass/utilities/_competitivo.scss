@@ -1,0 +1,33 @@
+body {
+    font-family: 'Quantico', sans-serif;
+}
+
+.competitivo{
+   background-color: black;
+}
+
+.margencompeti{
+    margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.gris{
+    background-color: #323232;
+    padding: 25px;
+}
+
+p {
+    display: flex;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Quantico', sans-serif;
+    color: $colorletra;
+}
+
+h2 {
+    margin-right: 100px;
+    padding-top: 25px;
+    text-align: center;
+    font-family: 'Quantico', sans-serif;
+    color: $colorletra;
+}
